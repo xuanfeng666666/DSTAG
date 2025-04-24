@@ -1,0 +1,884 @@
+{
+    "Abduct, hijack, or take hostage": [
+        "Military and Security Actions",
+        "Political and Governance Actions",
+        "Conflict and Peacekeeping Actions"
+    ],
+    "Accede to demands for change in institutions, regime": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Accede to demands for change in leadership": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Accede to demands for change in policy": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Accede to demands for rights": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Accede to requests or demands for political reform": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Accuse": [
+        "Legal and Investigative Actions",
+        "Political and Governance Actions"
+    ],
+    "Accuse of aggression": [
+        "Legal and Investigative Actions",
+        "Military and Security Actions"
+    ],
+    "Accuse of crime, corruption": [
+        "Legal and Investigative Actions",
+        "Political and Governance Actions"
+    ],
+    "Accuse of espionage, treason": [
+        "Legal and Investigative Actions",
+        "Political and Governance Actions"
+    ],
+    "Accuse of human rights abuses": [
+        "Legal and Investigative Actions",
+        "Political and Governance Actions"
+    ],
+    "Accuse of war crimes": [
+        "Legal and Investigative Actions",
+        "Military and Security Actions"
+    ],
+    "Acknowledge or claim responsibility": [
+        "Diplomatic Actions",
+        "Reparations and Apologies"
+    ],
+    "Apologize": [
+        "Reparations and Apologies",
+        "Diplomatic Actions"
+    ],
+    "Appeal for aid": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for change in institutions, regime": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal for change in leadership": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal for de-escalation of military engagement": [
+        "Diplomatic Actions",
+        "Conflict and Peacekeeping Actions"
+    ],
+    "Appeal for diplomatic cooperation (such as policy support)": [
+        "Diplomatic Actions",
+        "Aid and Cooperation Requests"
+    ],
+    "Appeal for easing of administrative sanctions": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal for easing of economic sanctions, boycott, or embargo": [
+        "Diplomatic Actions",
+        "Aid and Cooperation Requests"
+    ],
+    "Appeal for economic aid": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for economic cooperation": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for humanitarian aid": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for intelligence": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for judicial cooperation": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for material cooperation": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for military aid": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for military protection or peacekeeping": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Appeal for policy change": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal for political reform": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal for release of persons or property": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal for rights": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal for target to allow international involvement (non-mediation)": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal to engage in or accept mediation": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal to others to meet or negotiate": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal to others to settle dispute": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Appeal to yield": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Arrest, detain, or charge with legal action": [
+        "Legal and Investigative Actions",
+        "Political and Governance Actions"
+    ],
+    "Assassinate": [
+        "Military and Security Actions",
+        "Political and Governance Actions"
+    ],
+    "Attempt to assassinate": [
+        "Military and Security Actions",
+        "Political and Governance Actions"
+    ],
+    "Ban political parties or politicians": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Bring lawsuit against": [
+        "Legal and Investigative Actions",
+        "Political and Governance Actions"
+    ],
+    "Carry out car bombing": [
+        "Military and Security Actions",
+        "Conflict and Peacekeeping Actions"
+    ],
+    "Carry out roadside bombing": [
+        "Military and Security Actions",
+        "Conflict and Peacekeeping Actions"
+    ],
+    "Carry out suicide bombing": [
+        "Military and Security Actions",
+        "Conflict and Peacekeeping Actions"
+    ],
+    "Coerce": [
+        "Protests and Civil Disobedience",
+        "Political and Governance Actions"
+    ],
+    "Complain officially": [
+        "Diplomatic Actions",
+        "Protests and Civil Disobedience"
+    ],
+    "Conduct hunger strike": [
+        "Protests and Civil Disobedience",
+        "Political and Governance Actions"
+    ],
+    "Conduct strike or boycott": [
+        "Protests and Civil Disobedience",
+        "Political and Governance Actions"
+    ],
+    "Conduct suicide, car, or other non-military bombing": [
+        "Military and Security Actions",
+        "Conflict and Peacekeeping Actions"
+    ],
+    "Confiscate property": [
+        "Political and Governance Actions",
+        "Military and Security Actions"
+    ],
+    "Consider policy option": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Consult": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Cooperate economically": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Cooperate militarily": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Criticize or denounce": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Declare truce, ceasefire": [
+        "Conflict and Peacekeeping Actions",
+        "Diplomatic Actions"
+    ],
+    "Decline comment": [
+        "Diplomatic Actions"
+    ],
+    "Defend verbally": [
+        "Political and Governance Actions"
+    ],
+    "Defy norms, law": [
+        "Political and Governance Actions",
+        "Protests and Civil Disobedience"
+    ],
+    "Demand": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Demand change in institutions, regime": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Demand change in leadership": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Demand de-escalation of military engagement": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Demand diplomatic cooperation (such as policy support)": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Demand easing of administrative sanctions": [
+        "Political and Governance Actions",
+        "Diplomatic Actions"
+    ],
+    "Demand economic aid": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Demand humanitarian aid": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Demand intelligence cooperation": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Demand judicial cooperation": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Demand material aid": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Demand material cooperation": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Demand mediation": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Demand meeting, negotiation": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Demand military aid": [
+        "Aid and Cooperation Requests",
+        "Diplomatic Actions"
+    ],
+    "Demand policy change": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Demand political reform": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Demand release of persons or property": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Demand rights": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Demand settling of dispute": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    "Demand that target yields": [
+        "Diplomatic Actions",
+        "Political and Governance Actions"
+    ],
+    
+        "Demobilize armed forces": [
+            "Military and Security Actions",
+            "Conflict and Peacekeeping Actions"
+        ],
+        "Demonstrate for leadership change": [
+            "Protests and Civil Disobedience",
+            "Political and Governance Actions"
+        ],
+        "Demonstrate for policy change": [
+            "Protests and Civil Disobedience",
+            "Political and Governance Actions"
+        ],
+        "Demonstrate military or police power": [
+            "Military and Security Actions",
+            "Political and Governance Actions"
+        ],
+        "Demonstrate or rally": [
+            "Protests and Civil Disobedience",
+            "Political and Governance Actions"
+        ],
+        "Deny responsibility": [
+            "Reparations and Apologies",
+            "Political and Governance Actions"
+        ],
+        "Destroy property": [
+            "Military and Security Actions",
+            "Political and Governance Actions"
+        ],
+        "Detonate nuclear weapons": [
+            "Military and Security Actions",
+            "Conflict and Peacekeeping Actions"
+        ],
+        "Discuss by telephone": [
+            "Diplomatic Actions"
+        ],
+        "Ease administrative sanctions": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Ease curfew": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Ease economic sanctions, boycott, embargo": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Ease military blockade": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Ease political dissent": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Ease state of emergency or martial law": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Employ aerial weapons": [
+            "Military and Security Actions",
+            "Conflict and Peacekeeping Actions"
+        ],
+        "Engage in diplomatic cooperation": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Engage in judicial cooperation": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Engage in mass expulsion": [
+            "Military and Security Actions",
+            "Political and Governance Actions"
+        ],
+        "Engage in mass killings": [
+            "Military and Security Actions",
+            "Conflict and Peacekeeping Actions"
+        ],
+        "Engage in material cooperation": [
+            "Aid and Cooperation Requests",
+            "Diplomatic Actions"
+        ],
+        "Engage in negotiation": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Engage in political dissent": [
+            "Protests and Civil Disobedience",
+            "Political and Governance Actions"
+        ],
+        "Engage in symbolic act": [
+            "Protests and Civil Disobedience",
+            "Political and Governance Actions"
+        ],
+        "Engage in violent protest for rights": [
+            "Protests and Civil Disobedience",
+            "Political and Governance Actions"
+        ],
+        "Expel or deport individuals": [
+            "Political and Governance Actions",
+            "Military and Security Actions"
+        ],
+        "Expel or withdraw": [
+            "Military and Security Actions",
+            "Political and Governance Actions"
+        ],
+        "Expel or withdraw peacekeepers": [
+            "Military and Security Actions",
+            "Political and Governance Actions"
+        ],
+        "Express accord": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to accept mediation": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to change institutions, regime": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Express intent to change leadership": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Express intent to change policy": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Express intent to cooperate": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to cooperate economically": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to cooperate militarily": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to cooperate on intelligence": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to cooperate on judicial matters": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to de-escalate military engagement": [
+            "Diplomatic Actions",
+            "Military and Security Actions"
+        ],
+        "Express intent to ease administrative sanctions": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Express intent to ease economic sanctions, boycott, or embargo": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Express intent to engage in diplomatic cooperation (such as policy support)": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Express intent to engage in material cooperation": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Express intent to institute political reform": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Express intent to mediate": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to meet or negotiate": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to provide economic aid": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Express intent to provide humanitarian aid": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Express intent to provide material aid": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Express intent to provide military aid": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Express intent to provide military protection or peacekeeping": [
+            "Diplomatic Actions",
+            "Aid and Cooperation Requests"
+        ],
+        "Express intent to release persons or property": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to settle dispute": [
+            "Diplomatic Actions"
+        ],
+        "Express intent to yield": [
+            "Diplomatic Actions"
+        ],
+        "Forgive": [
+            "Reparations and Apologies"
+        ],
+        "Give ultimatum": [
+            "Political and Governance Actions",
+            "Diplomatic Actions"
+        ],
+        "Grant asylum": [
+            "Diplomatic Actions",
+            "Political and Governance Actions"
+        ],
+        "Grant diplomatic recognition": [
+            "Diplomatic Actions"
+        ],
+        "Halt mediation": [
+            "Diplomatic Actions"
+        ],
+        "Halt negotiations": [
+            "Diplomatic Actions"
+        ],
+        "Host a visit": [
+            "Diplomatic Actions"
+        ],
+        "Impose administrative sanctions": [
+            "Political and Governance Actions",
+            "Economic and Sanctions Actions"
+        ],
+        "Impose blockade, restrict movement": [
+            "Political and Governance Actions",
+            "Military and Security Actions"
+        ],
+        "Impose embargo, boycott, or sanctions": [
+            "Political and Governance Actions",
+            "Economic and Sanctions Actions"
+        ],
+        "Impose restrictions on political freedoms": [
+            "Political and Governance Actions"
+        ],
+        "Impose state of emergency or martial law": [
+            "Political and Governance Actions"
+        ],
+        "Increase military alert status": [
+            "Military and Security Actions"
+        ],
+        "Increase police alert status": [
+            "Military and Security Actions"
+        ],
+        "Investigate": [
+            "Legal and Investigative Actions"
+        ],
+        "Investigate crime, corruption": [
+            "Legal and Investigative Actions"
+        ],
+        "Investigate human rights abuses": [
+            "Legal and Investigative Actions"
+        ],
+        "Investigate war crimes": [
+            "Legal and Investigative Actions"
+        ],
+        "Kill by physical assault": [
+            "Military and Security Actions",
+            "Conflict and Peacekeeping Actions"
+        ],
+        
+            "Make a visit": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Make an appeal or request": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Make empathetic comment": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Make optimistic comment": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Make pessimistic comment": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Make statement": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Mediate": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Meet at a 'third' location": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Mobilize or increase armed forces": [
+                "Military and Security Actions",
+                "Political and Governance Actions"
+            ],
+            "Mobilize or increase police power": [
+                "Military and Security Actions",
+                "Political and Governance Actions"
+            ],
+            "Obstruct passage to demand leadership change": [
+                "Protests and Civil Disobedience",
+                "Political and Governance Actions"
+            ],
+            "Obstruct passage, block": [
+                "Protests and Civil Disobedience",
+                "Political and Governance Actions"
+            ],
+            "Occupy territory": [
+                "Military and Security Actions",
+                "Political and Governance Actions"
+            ],
+            "Physically assault": [
+                "Military and Security Actions",
+                "Political and Governance Actions"
+            ],
+            "Praise or endorse": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Protest violently, riot": [
+                "Protests and Civil Disobedience",
+                "Military and Security Actions"
+            ],
+            "Provide aid": [
+                "Aid and Cooperation Requests",
+                "Diplomatic Actions"
+            ],
+            "Provide economic aid": [
+                "Aid and Cooperation Requests",
+                "Diplomatic Actions"
+            ],
+            "Provide humanitarian aid": [
+                "Aid and Cooperation Requests",
+                "Diplomatic Actions"
+            ],
+            "Provide military aid": [
+                "Aid and Cooperation Requests",
+                "Diplomatic Actions"
+            ],
+            "Provide military protection or peacekeeping": [
+                "Aid and Cooperation Requests",
+                "Diplomatic Actions"
+            ],
+            "Rally opposition against": [
+                "Protests and Civil Disobedience",
+                "Political and Governance Actions"
+            ],
+            "Rally support on behalf of": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Receive deployment of peacekeepers": [
+                "Diplomatic Actions",
+                "Military and Security Actions"
+            ],
+            "Receive inspectors": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reduce or break diplomatic relations": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reduce or stop economic assistance": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reduce or stop humanitarian assistance": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reduce or stop material aid": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reduce or stop military assistance": [
+                "Diplomatic Actions",
+                "Military and Security Actions"
+            ],
+            "Reduce relations": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Refuse to de-escalate military engagement": [
+                "Diplomatic Actions",
+                "Military and Security Actions"
+            ],
+            "Refuse to ease administrative sanctions": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Refuse to ease economic sanctions, boycott, or embargo": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Refuse to release persons or property": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Refuse to yield": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reject": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reject economic cooperation": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reject judicial cooperation": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reject material cooperation": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reject military cooperation": [
+                "Diplomatic Actions",
+                "Military and Security Actions"
+            ],
+            "Reject plan, agreement to settle dispute": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reject proposal to meet, discuss, or negotiate": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reject request for change in leadership": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Reject request for military aid": [
+                "Diplomatic Actions",
+                "Military and Security Actions"
+            ],
+            "Reject request for military protection or peacekeeping": [
+                "Diplomatic Actions",
+                "Military and Security Actions"
+            ],
+            "Retreat or surrender militarily": [
+                "Military and Security Actions"
+            ],
+            "Return, release person(s)": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Return, release property": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Seize or damage property": [
+                "Military and Security Actions",
+                "Political and Governance Actions"
+            ],
+            "Sexually assault": [
+                "Military and Security Actions",
+                "Political and Governance Actions"
+            ],
+            "Share intelligence or information": [
+                "Diplomatic Actions",
+                "Military and Security Actions"
+            ],
+            "Sign formal agreement": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "Threaten": [
+                "Political and Governance Actions",
+                "Military and Security Actions"
+            ],
+            "Threaten non-force": [
+                "Political and Governance Actions"
+            ],
+            "Threaten to halt mediation": [
+                "Political and Governance Actions",
+                "Diplomatic Actions"
+            ],
+            "Threaten to halt negotiations": [
+                "Political and Governance Actions",
+                "Diplomatic Actions"
+            ],
+            "Threaten to reduce or break relations": [
+                "Political and Governance Actions"
+            ],
+            "Threaten to reduce or stop aid": [
+                "Political and Governance Actions",
+                "Military and Security Actions"
+            ],
+            "Threaten with administrative sanctions": [
+                "Political and Governance Actions"
+            ],
+            "Threaten with military force": [
+                "Military and Security Actions",
+                "Political and Governance Actions"
+            ],
+            "Threaten with political dissent, protest": [
+                "Political and Governance Actions",
+                "Protests and Civil Disobedience"
+            ],
+            "Threaten with repression": [
+                "Political and Governance Actions",
+                "Military and Security Actions"
+            ],
+            "Threaten with sanctions, boycott, embargo": [
+                "Political and Governance Actions",
+                "Economic and Sanctions Actions"
+            ],
+            "Torture": [
+                "Military and Security Actions"
+            ],
+            "Use as human shield": [
+                "Military and Security Actions"
+            ],
+            "Use chemical, biological, or radiological weapons": [
+                "Military and Security Actions"
+            ],
+            "Use conventional military force": [
+                "Military and Security Actions"
+            ],
+            "Use tactics of violent repression": [
+                "Military and Security Actions"
+            ],
+            "Use unconventional violence": [
+                "Military and Security Actions"
+            ],
+            "Veto": [
+                "Diplomatic Actions"
+            ],
+            "Violate ceasefire": [
+                "Military and Security Actions"
+            ],
+            "Yield": [
+                "Diplomatic Actions",
+                "Political and Governance Actions"
+            ],
+            "fight with artillery and tanks": [
+                "Military and Security Actions"
+            ],
+            "fight with small arms and light weapons": [
+                "Military and Security Actions"
+            ]
+        }
+        
