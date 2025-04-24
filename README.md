@@ -5,6 +5,10 @@
 ## Quick Start
 ### Environment variables & dependencies
 ```
+PyTorch version: 2.2.1
+CUDA version used by PyTorch: 12.1
+DGL version: 2.2.1
+
 conda create -n DSTAG python=3.8
 conda activate DSTAG
 ```
