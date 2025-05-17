@@ -15,7 +15,7 @@ conda activate DSTAG
 
 ### Process data
 
-#### For the four datasets ICEWS18, ICEWS14, ICEWS05-15 and GDELT, go into the dataset folder in the ./data directory and run the following command to construct the static graph.
+#### For the three datasets ICEWS18, ICEWS14 and ICEWS05-15, go into the dataset folder in the ./data directory and run the following command to construct the static graph.
 ```
 python generate_ent2sec_mat.py
 python generate_rel2sec_mat.py
