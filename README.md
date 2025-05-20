@@ -1,6 +1,6 @@
 # DSTAG:
 
-![Markdown Logo](./framework_picture.png)
+![Markdown Logo](./framework_picture1.png)
 
 ## Quick Start
 ### Environment variables & dependencies
