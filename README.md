@@ -1,4 +1,4 @@
-# DSTAG: A Semantic Tag-Enhanced Dual-Graph Convolutional Network for Temporal Knowledge Graph Completion
+# DSTAG:
 
 ![Markdown Logo](./framework_picture.png)
 
